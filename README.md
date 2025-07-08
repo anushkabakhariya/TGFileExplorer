@@ -40,7 +40,7 @@ Special thanks to the original author for making the source code publicly availa
 ## 🔗 Source Code
 
 You can find the full source code for this app at:  
-**[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)**
+**[[https://github.com/anushkabakhariya/TGFileExplorer]](https://github.com/anushkabakhariya/TGFileExplorer)**
 
 Please refer to the `LICENSE` file for details.
 
